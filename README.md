@@ -1,3 +1,5 @@
+
+<img width="1920" height="1080" alt="Annotation 2026-07-06 234202" src="https://github.com/user-attachments/assets/d84869ed-7da2-4e3e-89ce-df0c82b37dd4" />
   # AWS Cloud Cost Optimization - Identifying Stale Resources
 
  ## Identifying Stale EBS Snapshots
